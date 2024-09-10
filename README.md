@@ -32,7 +32,7 @@ Skapa upp ett kontaktformulär först i en mobilframe. Skapa därefter upp en de
 
 ## Övning 3
 
-Skapa upp en desktopframe, och försök återskapa [bilden]() så likt som du bara kan utifrån nedan angivna specifikationer. Bilderna du behöver hittar du i mappen **assets/images**.
+Skapa upp en desktopframe, och försök återskapa [bilden](https://github.com/fu-ux-ui-fe24/exercise-prototype-bootcamp/blob/main/assets/mockup/desktop-insurance.png) så likt som du bara kan utifrån nedan angivna specifikationer. Bilderna du behöver hittar du i mappen **assets/images**.
 
 ### Färger
 

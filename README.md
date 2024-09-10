@@ -24,7 +24,7 @@ Välj nu ut en valfri hemsida på nätet, exempelvis någon sida som du är väl
 
 ### Steg 5 - Välj mobil eller dektoplayouten
 
-Försök nu att återskapa den övergripande layouten för den sida du valt. Fokusera inte på detaljer inledningsvis, utan lägg fokus på att få till strukturen, samt att testa de olika verktyg som du har till ditt förfogande. Därefter kan du gå in mer på detaljnivå om du vill.
+Försök nu att återskapa den övergripande layouten för den sida du valt. Fokusera inte på detaljer inledningsvis, utan lägg fokus på att få till strukturen, samt att testa de olika verktyg som du har till ditt förfogande. Spara gärna skapade element som återkommer som komponenter. Därefter kan du gå in mer på detaljnivå om du vill.
 
 ## Övning 2
 

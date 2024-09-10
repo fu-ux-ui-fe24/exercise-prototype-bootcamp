@@ -31,4 +31,22 @@ Försök nu att återskapa den övergripande layouten för den sida du valt. Fok
 Skapa upp ett kontaktformulär först i en mobilframe. Skapa därefter upp en desktopframe och fundera på hur layouten för ditt kontaktformulär förändras när du byter storlek på skärmen, innan du återskapar ditt formulär i din desktopframe.
 
 ## Övning 3
+
+Skapa upp en desktopframe, och försök återskapa [bilden]() så likt som du bara kan utifrån nedan angivna specifikationer. Bilderna du behöver hittar du i mappen **assets/images**.
+
+### Färger
+
+* C7DDEA
+* F17949
+* FAB131
+* A9A19E
+* EBEBEB
+* 000000
+
+### Typsnitt
+
+* Rubriker: Fran Ruhl Libre, textstorlek 45
+* Brödtext: Fira Sans, textstorlek 14
+
+## Övning 4
 Skissa upp desktopvyn för din drömhemsida. Försök därefter att skapa en figmaprototyp baserat på din skiss.

@@ -49,4 +49,11 @@ Skapa upp en desktopframe, och försök återskapa [bilden](https://github.com/f
 * Brödtext: Fira Sans, textstorlek 14
 
 ## Övning 4 - eftermiddagspasset med Jacob
-To be continued
+
+### Steg 1
+
+Skissa med papper och penna upp en lo-fi sketch av er drömwebbsida. Ni har 10 minuter på er.
+
+### Steg 2
+
+Byt sketch med en kompis och skapa en Figma-prototyp av er kompis sketch. Börja med de övergripande dragen/layouten, för att sedan gå in mer på detaljer.

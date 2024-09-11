@@ -48,5 +48,5 @@ Skapa upp en desktopframe, och försök återskapa [bilden]() så likt som du ba
 * Rubriker: Fran Ruhl Libre, textstorlek 45
 * Brödtext: Fira Sans, textstorlek 14
 
-## Övning 4
-Skissa upp desktopvyn för din drömhemsida. Försök därefter att skapa en figmaprototyp baserat på din skiss.
+## Övning 4 - eftermiddagspasset med Jacob
+To be continued
